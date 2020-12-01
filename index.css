@@ -1,0 +1,67 @@
+@media screen and (min-width: 320px){
+
+}
+h1{
+    font-size: xx-large;
+    color:  rgb(73, 72, 72);
+    font-weight: bold;
+}
+
+h1:hover{
+    font-size: xx-large;
+    color:  rgb(2, 105, 62);
+    font-weight: bold;
+}
+h2{
+    font-size: x-large;
+    color: rgb(73, 72, 72);
+    font-weight: bold;  
+    background-color: rgb(202, 247, 189);
+    padding: 20px;
+    text-align: center;
+}
+
+.title {
+    background-color: rgb(202, 247, 189);
+    padding: 50px;
+    text-align: center;
+}
+
+.navbar {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+h2:hover {
+    font-size: x-large;
+    color: rgb(2, 105, 62);
+    font-weight: bold;  
+    background-color: rgb(202, 247, 189);
+    padding: 20px;
+    text-align: center;  
+}
+
+.footer {
+    background-color:  rgb(202, 247, 189);
+    color: rgb(73, 72, 72);
+    font-weight: bold;
+    font-size: medium;
+    font-style: italic;
+    padding: 50px;
+    text-align: center;
+}
+
+ul{
+    font-size: large;
+    padding-top: 20px;
+    padding-left: 50px;
+    color: #222121;
+}
+
+
+
+img{
+    max-width: 500px;
+    max-height: 500px;
+}
